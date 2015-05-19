@@ -1,5 +1,7 @@
 var app    = require('express')();
 
+app.use(express.static('public'));
+
 app.get('/', function(request, response){
 	response.send('OK');
 });
