@@ -1,0 +1,23 @@
+{
+  "name": "angular-inventory",
+  "version": "1.0.0",
+  "homepage": "https://github.com/shastri9999/angular-inventory",
+  "authors": [
+    "Subramanyam S <shastri9999@gmail.com>"
+  ],
+  "description": "Simple app to provide inventory listing and cart checkout.",
+  "keywords": [
+    "angular",
+    "inventory",
+    "cart"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ]
+}
