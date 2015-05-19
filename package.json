@@ -12,10 +12,9 @@
     "mocha": "^2.2.5"
   },
   "scripts": {
-    "build":"gulp",
     "start":"node app.js",   
     "test": "echo \"Error: no test specified\" && exit 1",
-    "postinstall": "mkdir public && mkdir public/libs && ./node_modules/bower/bin/bower install"
+    "postinstall": "gulp"
   },
   "repository": {
     "type": "git",
