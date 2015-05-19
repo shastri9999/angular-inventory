@@ -1,0 +1,27 @@
+{
+  "name": "angular-inventory",
+  "version": "1.0.0",
+  "description": "Simple app which provides item listing and cart checkout functionality.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.12.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shastri9999/angular-inventory.git"
+  },
+  "keywords": [
+    "checkout",
+    "cart"
+  ],
+  "author": "Subramanyam S",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shastri9999/angular-inventory/issues"
+  },
+  "homepage": "https://github.com/shastri9999/angular-inventory"
+}
