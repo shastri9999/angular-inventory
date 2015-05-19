@@ -4,7 +4,8 @@
   "description": "Simple app which provides item listing and cart checkout functionality.",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.12.4"
+    "express": "^4.12.4",
+    "express-handlebars": "^2.0.1"
   },
   "devDependencies": {
     "bower": "^1.4.1",
@@ -12,7 +13,7 @@
     "mocha": "^2.2.5"
   },
   "scripts": {
-    "start":"node app.js",   
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

@@ -1,0 +1,1 @@
+angular.module('InventoryApp', ['ngMaterial','ngRoute']);
